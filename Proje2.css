@@ -1,0 +1,350 @@
+@font-face {
+    font-family: GothamRoundedBold;
+    src: url(Bold.otf);
+}
+.hedder{
+background-color: blueviolet;
+width: 100%;
+height: 750px;
+overflow: hidden;
+
+}
+body{margin: 0;
+    padding: 0;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.logo{
+    position: absolute;
+    padding-left: 82%;
+}
+.menuicon{
+position: absolute;
+left: 68px;
+top: 34px;
+
+}
+.center{
+width: 100%;
+height: 550px;
+background-color: aqua;
+
+
+}
+.center{
+    background-color:#fffcef;
+}
+.text{
+
+text-align: center;
+}
+.sellers{
+    font-size: 25px;  
+   margin-top: -10px;
+    padding-left: 131px;
+    
+}
+.best{
+    color: red;
+    font-size: 70px;
+    font-family: GothamRoundedBold;
+}
+.card{
+    display: flex;
+align-items: center;
+flex-direction: column;
+flex: 1;
+padding-top: 50px;
+
+}
+.bigcard{
+    display: flex;
+
+}
+.card button{
+    background-color: red;
+    width: 130px;
+    height: 40px;
+    border-radius: 30px;
+    color:white;
+    
+    font-size: 18px;
+}
+.card p{
+    font-weight: bold;
+}
+
+
+.hometext1{
+    position: absolute;
+    top:99px;
+    left:828px;
+}
+.home{
+    position: relative;
+    width: 100%;
+    height: 759px;
+    display: inline-block;
+    overflow: hidden;
+}
+#us{
+font-size: 70px;
+font-family: GothamRoundedBold;
+color: white;
+}
+
+#better{color: white;
+padding-left: 160px;
+font-size: 30px;
+
+}
+.hometext2{
+    position: absolute;
+    top:268px;
+    left:275px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    
+}
+.hometext2 p{
+
+    font-size: 34px;
+    color: white;
+    font-family: GothamRoundedBold;
+    
+    
+}
+.hometext3{
+    position: absolute;
+    top:268px;
+    left:1108px;
+    width: 10%;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.hometext3 p{
+font-size: 34px;
+font-family: GothamRoundedBold;
+color: white;
+
+}
+.hometext4{
+position: absolute;
+top: 268px;
+left: 1617px;
+display: flex;
+align-items: center;
+flex-direction: column;
+
+}
+.hometext4 p{
+font-size: 34px;
+font-family:GothamRoundedBold;
+color: white;
+
+}
+.hometext5{
+position: absolute;
+top: 556px;
+left: 102px;
+display: flex;
+align-items: center;
+flex-direction: column;
+
+}
+.hometext5 button{
+    background-color: red;
+    border-radius: 30px;
+    width: 142px;
+    height: 43px;
+    color: white;
+    font-size: 18px;
+}
+.hometext5 p{
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.644);
+    
+}
+.hometext6{
+ position: absolute;
+top: 556px;
+left: 976px;
+display: flex;
+align-items: center;
+flex-direction: column;
+
+}
+.hometext6 button{
+    background-color: red;
+    border-radius: 30px;
+    width: 142px;
+    height: 43px;
+    color: white;
+    font-size: 18px;
+}
+.hometext6 p{
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.644);
+}
+.hometext7{
+    position: absolute;
+    top: 556px;
+    left: 1458px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+}
+.hometext7 p{
+    font-size: 18px;
+    color: rgba(0, 0, 0, 0.644);
+}
+.hometext7 button{
+    background-color: red;
+    border-radius: 30px;
+    width: 142px;
+    height: 43px;
+    color: white;
+    font-size: 18px;
+}
+.therdparent{
+    display: flex;
+    width: 100%;
+    height:800px ;
+    background-color: white
+    
+}
+.child1{
+
+width: 35%;
+height: 650px;
+
+margin-top: 60px;
+margin-left: 20px;
+
+}
+.child2{
+    
+width: 55%;
+height: 720px;
+background-color:white;
+box-shadow: -4px 3px 18px rgba(26, 25, 25, 0.733);
+margin-left: 120px;
+margin-top: 45px;
+border-radius: 30px;
+border-bottom-right-radius: 0;
+overflow: hidden;
+
+
+}
+.surprise{
+    padding-top: 51px;
+    padding-left: 62px;
+    font-family:gothamRoundedBold ;
+    font-size: 65px;
+    color: red;
+}
+.me{
+    font-family:gothamRoundedBold ;
+padding-top: 0px;
+padding-left: 310px;
+font-size: 28px;
+}
+.celebration{
+    font-size: 30px;
+    font-family: gothamRoundedBold;
+    margin-top:45px ;
+    margin-left:73px ;
+}
+.bigfont{
+    font-size: 17px;
+    padding-top:37px ;
+    padding-left:64px ;
+}
+.child2 img{
+    width: 420px;
+    padding-left: 569px;
+    padding-top:55px;
+
+}
+form{
+    position: absolute;
+    padding-left: 70px;
+    padding-top: 10px;
+    line-height: 70px;
+    
+}
+.form{
+    width: 460px;
+    height: 50px;
+    border-radius: 15px;
+    border: none;
+    background-color: rgba(94, 93, 91, 0.137);
+    font-size:medium;
+    padding-left: 15px;
+}
+.child2 p{
+
+    font-size: 30px;
+    font-family: gothamRoundedBold;
+    padding-left: 65px;
+    padding-top: 30px;
+
+    
+}
+
+ form button{
+    background-color: red;
+    border-radius: 30px;
+    width: 142px;
+    height: 43px;
+    color: white;
+    font-size: 18px;
+
+
+}
+button:hover{
+    cursor: pointer;
+}
+footer{
+    width: 100%;
+    height: 450px;
+    background-color: rgba(209, 7, 7, 0.835);
+    display: flex;
+    
+}
+.footar1 p{
+    font-weight: bold;
+    color: rgba(255, 255, 255, 0.831);
+    font-family: gothamRoundedBold;
+    
+}
+.footar1{
+    padding-top: 90px;
+    text-align: left;
+    padding-left: 126px;
+
+
+}
+footer ul{
+    list-style: none;
+    font-size: 14px;
+}
+.footar2 p{
+font-weight: bold;
+font-family:gothamRoundedBold ;
+color: rgba(255, 255, 255, 0.831);
+}
+
+ p.number{
+color: black;
+
+font-size: xx-large;
+}
+
+    
+
